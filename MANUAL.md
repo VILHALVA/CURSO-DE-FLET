@@ -1,4 +1,4 @@
-### MANUAL
+# MANUAL
 ## INSTALAÇÃO DO FLET:
 ### PASSO 1: INSTALAR PYTHON:
 Certifique-se de ter o Python instalado. Você pode baixar a versão mais recente do Python em [python.org](https://www.python.org/). Durante a instalação, marque a opção para adicionar Python ao PATH.
